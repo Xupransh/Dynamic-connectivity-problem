@@ -124,7 +124,7 @@ public:
                 
                  char c;
                 
-                cout << "enter linkages, make queries ,press q to exit, anything else to continue (press enter before last linkage)  ";
+                cout << "enter linkages, make queries ,press q to exit, anything else to continue (press q before last linkage)  ";
                 
                 while (c != 'q') {
                     
